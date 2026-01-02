@@ -1,0 +1,7 @@
+apiVersion: 1
+
+providers:
+  - name: '233-final-project-zss'
+    type: file
+    options:
+      path: /etc/grafana/provisioning/dashboards

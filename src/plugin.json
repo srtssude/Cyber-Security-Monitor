@@ -1,0 +1,25 @@
+{
+  "$schema": "https://raw.githubusercontent.com/grafana/grafana/main/docs/sources/developers/plugins/plugin.schema.json",
+  "type": "panel",
+  "name": "233-Final-Project-Zss",
+  "id": "bogaziciuniversity-233finalprojectzss-panel",
+  "info": {
+    "keywords": ["panel"],
+    "description": "",
+    "author": {
+      "name": "Bogazici university"
+    },
+    "logos": {
+      "small": "img/logo.svg",
+      "large": "img/logo.svg"
+    },
+    "links": [],
+    "screenshots": [],
+    "version": "%VERSION%",
+    "updated": "%TODAY%"
+  },
+  "dependencies": {
+    "grafanaDependency": ">=11.6.0",
+    "plugins": []
+  }
+}
