@@ -1,6 +1,6 @@
-# CyberSentinel Monitor - Grafana Panel Plugin
+# Cyber Security Monitor - Grafana Panel Plugin
 **Course:** MIS 233 - Fall 2025
-**Developer:** Zeynep Sude Sarıtaş (2022502006)
+**Developer:** Zeynep Sude Sarıtaş
 
 ## Overview
 CyberSentinel is a hybrid Grafana panel plugin designed for real-time threat monitoring. It combines **internal Grafana metrics** with **external API data** to visualize system load, threat levels, and AI-driven anomaly detection.
